@@ -1,8 +1,23 @@
-# React + Vite
+ 
+# DialogAi Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+DialogAi is a Gemini inspired web application designed to provide assistance in generating text-based responses to various prompts. It utilizes React.js for the frontend and integrates with a backend API for processing user queries and providing responses.
 
-Currently, two official plugins are available:
+## Features
+- **Sidebar Navigation**: Easily navigate through the application using the sidebar menu.
+- **Dark Mode**: Toggle between light and dark mode for improved readability.
+- **Recent Prompts**: View and select from a list of recently used prompts.
+- **Real-time Response**: Experience real-time text generation as you type or select prompts.
+- **Responsive Design**: The application is responsive and works seamlessly across various devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ # Usage
+Enter a prompt in the search box and press Enter, or select a prompt from the list of suggestions.
+View the generated response in real-time.
+Toggle between light and dark mode using the toggle button.
+Navigate through recent prompts in the sidebar.
+
+# Technologies Used
+React.js
+JavaScript
+CSS
