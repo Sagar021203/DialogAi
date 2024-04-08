@@ -12,12 +12,12 @@ DialogAi is a Gemini inspired web application designed to provide assistance in 
 - **Responsive Design**: The application is responsive and works seamlessly across various devices.
 
  # Usage
-Enter a prompt in the search box and press Enter, or select a prompt from the list of suggestions.
-View the generated response in real-time.
-Toggle between light and dark mode using the toggle button.
-Navigate through recent prompts in the sidebar.
+- Enter a prompt in the search box and press Enter, or select a prompt from the list of suggestions.
+- View the generated response in real-time.
+- Toggle between light and dark mode using the toggle button.
+- Navigate through recent prompts in the sidebar.
 
 # Technologies Used
-React.js
-JavaScript
-CSS
+- React.js
+- JavaScript
+- CSS
