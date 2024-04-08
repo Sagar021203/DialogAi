@@ -21,3 +21,11 @@ DialogAi is a Gemini inspired web application designed to provide assistance in 
 - React.js
 - JavaScript
 - CSS
+# Contributing
+Contributions are welcome! Please follow these steps to contribute:
+
+-Fork the repository.
+-Create a new branch for your feature: git checkout -b feature-name.
+-Commit your changes: git commit -am 'Add new feature'.
+-Push to the branch: git push origin feature-name.
+-Submit a pull request.
